@@ -1,0 +1,1 @@
+console.log ("aizat hw-2")
